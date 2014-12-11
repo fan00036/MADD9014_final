@@ -1,0 +1,33 @@
+.background{
+	background-color: #fff; 
+background-image: 
+linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+linear-gradient(#eee .1em, transparent .1em);
+background-size: 100% 1.2em;}
+
+#copy{
+	font-size: 0.5rem;
+	margin:15px 0 0 0;
+}
+
+table{
+	width:100%;
+}
+.td1{
+/*	width:25%;*/
+	padding-bottom:10px;
+	padding-left:20px;
+	
+}
+.td2{
+/*	width:50%;*/
+}
+.td2 p{
+	text-align: left;
+	padding-left: 15px;
+	width: 120px;
+	font-size: 1.1rem;
+}
+.td3{
+	width:8%;
+}
